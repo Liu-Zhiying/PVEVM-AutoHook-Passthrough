@@ -1,4 +1,4 @@
-# PVEPassthroughMonitork
+# PVEPassthroughMonitor
 一个可以自动扫描pve直通状态并且自动归还直通硬件的小工具（比如显卡）
 
 ## 编译和运行
